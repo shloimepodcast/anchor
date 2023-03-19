@@ -19,4 +19,4 @@ jobs:
           EPISODE_PATH: /github/workspace
           LOAD_THUMBNAIL: true
           URL_IN_DESCRIPTION: true
-          SET_PUBLISH_DATE: true
+          SET_PUBLISH_DATE: false
